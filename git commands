@@ -1,0 +1,9 @@
+git init
+git add .
+git status
+git commit -m "some message"
+git remote add <url>
+git push -u origin master
+     - asks for username and password
+
+to pull - git clone <url>
